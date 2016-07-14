@@ -1,8 +1,8 @@
 # Text-Reuse
 
 This repository contains code, documentation and slides for the text reuse session at UCREL summer school 2016.
-
-Running Python scripts
+<br \><br \>
+<h3>Running Python scripts</h3>
 
 Run these four scripts, one by one, by typing the following commands at the command window (cmd.exe)
 
@@ -46,8 +46,8 @@ E:\python\python.exe tr-ngram2.py E:\s8-text-reuse\Corpus E:\s8-text-reuse\outpu
 E:\python\python.exe tr-ngram2.py E:\s8-text-reuse\Corpus E:\s8-text-reuse\output tr-bigram
 </code>
 
-
-Running WEKA GUI
+<br \><br \>
+<h3>Running WEKA GUI</h3>
 
 <code>
 java -jar E:\weka-3-8-0\weka.jar
