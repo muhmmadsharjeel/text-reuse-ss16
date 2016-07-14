@@ -20,7 +20,6 @@ if len(sys.argv) != 4:
 
 filesDirName = sys.argv[1]
 outputPath = sys.argv[2]
-print(outputPath)
 outputFile = sys.argv[3]
 
 if not os.path.abspath(filesDirName):
